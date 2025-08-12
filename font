@@ -1,0 +1,5 @@
+#pour intaller swaybg
+sudo pacman -S swaybg 
+
+#pour lancer toujours la commande 
+exec_always swaybg -i /chemin/vers/image.jpg -m fill
